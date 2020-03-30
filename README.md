@@ -17,6 +17,8 @@ The SVG files are available in the `svg` folder.
 
 ## Other Formats
 
+The script `svg2all.sh` was used to convert the SVG to other formats.
+
 - PNG files are available in the `png` folder.
 
   Use this files if you are creating a web page.

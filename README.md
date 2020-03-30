@@ -18,6 +18,7 @@ The SVG files are available in the `svg` folder.
 ## Other Formats
 
 The script `svg2all.sh` was used to convert the SVG to other formats.
+They all have 300dpi.
 
 - PNG files are available in the `png` folder.
 

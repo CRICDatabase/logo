@@ -1,5 +1,9 @@
 # CRIC Searchable Image Database - Logo
 
+# Font
+
+Calibre Bold
+
 ## Colours
 
 - Blue: 329fad
